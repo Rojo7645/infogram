@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">INFOGRAM</string>
+    <string name="nombre_de_usuario">Nombre de usuario</string>
+    <string name="contrasena">Contraseña</string>
+    <string name="button_text">LOGIN</string>
+    <string name="no_tienes_cuenta">"¿no tienes cuenta?, "</string>
+    <string name="crea_una_aqui">crea una aqui</string>
+    <string name="correo">correo</string>
+    <string name="nombre">nombre</string>
+    <string name="usuario">usuario</string>
+    <string name="confirme_contrasena">confirme_contraseña</string>
+    <string name="button_text_create_account">UNETE</string>
+    <string name="title_crear_cuenta">crear cuenta</string>
+    <string name="carlos_vargas_carview">Carlos Vargas</string>
+    <string name="hace_cardview">Hace</string>
+    <string name="dias_cardview">" 4 dias"</string>
+    <string name="me_gusta_cardview">10 me gusta</string>
+    <string name="buscar_item">Buscar</string>
+    <string name="home_item">home</string>
+    <string name="yo_item">Yo</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
